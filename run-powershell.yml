@@ -6,4 +6,4 @@
   gather_facts: false
   tasks:
     - name: Run powershell script 
-      script: hw.ps1
+      script: win-dns.ps1
